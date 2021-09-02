@@ -1,0 +1,19 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "The website for http://olivermakesco.de",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oliver-makes-code/website.git"
+  },
+  "author": "oliver-makes-code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oliver-makes-code/website/issues"
+  },
+  "homepage": "https://github.com/Oliver-makes-code/website#readme"
+}
