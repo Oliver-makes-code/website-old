@@ -3,10 +3,13 @@ let fs = require("fs");
 let sidebarPath = "./sidebar.json";
 let htmlPath = "./index.html";
 let toSidebar = require("./sidebar").toSidebar;
-console.log("a");
 http.createServer(function (req, res) {
-    console.log("Recieved request");
-    console.log(req.url);
+    if (req.url.startsWith("/git")) {
+        res.writeHead(307, {Location: "http://github.com/oliver-makes-code" + req.url.substr(4)});
+        res.end();
+        return;
+    }
+
     if (req.url.indexOf("/..") != -1) {
         res.writeHead(403);
         res.end();
