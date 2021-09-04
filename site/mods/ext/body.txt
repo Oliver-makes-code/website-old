@@ -1,0 +1,3 @@
+<a href="https://modrinth.com/mod/ext/"><img src="/assets/extension.jpg" width="10%" height="10%"/></a><br>
+A serverside fabric mod containing a ton of gamerules! <br>
+Take a look at <a href="https://modrinth.com/mod/ext/">the Modrinth page</a> to learn more! <br>

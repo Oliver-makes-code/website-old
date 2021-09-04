@@ -1,0 +1,17 @@
+[
+    {
+        "type": "item",
+        "text": "Home",
+        "url": "/"
+    },
+    {
+        "type": "menu",
+        "title": "Mods",
+        "items": [
+            {
+                "text": "Extension",
+                "url": "/mods/ext"
+            }
+        ]
+    }
+]
