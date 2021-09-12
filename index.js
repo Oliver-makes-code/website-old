@@ -1,6 +1,5 @@
 let http = require("http");
 let fs = require("fs");
-let worker = require('worker_threads');
 let sidebarPath = "./sidebar.json";
 let htmlPath = "./index.html";
 let toSidebar = require("./sidebar").toSidebar;
