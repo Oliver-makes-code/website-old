@@ -5,12 +5,41 @@
         "url": "/"
     },
     {
+        "type": "item",
+        "text": "Gay",
+        "url": "/bgdc"
+    },
+    {
         "type": "menu",
         "title": "Mods",
         "items": [
             {
+                "text": "Home",
+                "url": "/mods"
+            },
+            {
                 "text": "Extension",
                 "url": "/mods/ext"
+            }
+        ]
+    },
+    {
+        "type": "menu",
+        "title": "Blogs",
+        "items": [
+            {
+                "text": "Home",
+                "url": "/blog"
+            }
+        ]
+    },
+    {
+        "type": "Menu",
+        "title": "8-Bit Covers",
+        "items": [
+            {
+                 "text": "Pebble Brain",
+                 "url": "https://www.youtube.com/playlist?list=PLCFbwuvkFovfN2AxsH9x5wflBIndrhWoY"
             }
         ]
     }
