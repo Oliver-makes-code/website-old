@@ -1,0 +1,3 @@
+<h2>Welcome to the Refined Magic Wiki!</h2>
+<p>Make sure to check out the entries in the sidebar to learn more about Refined Magic</p><br>
+<a href="/rm/recipe">View Recipes</a>

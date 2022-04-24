@@ -17,7 +17,7 @@
           left: -1px;
         }
         to {
-          left: min(100vw - 10vmin, 300px);
+          left: 30vw;
         }
       }
       @keyframes slider-content {
@@ -26,7 +26,7 @@
           left: -1px;
         }
         to {
-          width: min(100vw - 10vmin, 300px);
+          width: 30vw;
           left: 0px;
         }
       }
@@ -47,7 +47,7 @@
         user-select: none;
         position: relative;
         background-color: #22222200;
-        width: min(100vw - 10vmin, 300px);
+        width: 30vw;
         height: 100vh;
         left: 0;
         top: 0px;
@@ -79,7 +79,7 @@
         animation-iteration-count: infinite;
         animation-timing-function: ease-in-out;
         position: relative;
-        border-top: 3px solid #222222;
+        border-top: 4px solid #222222;
         background-color: #333333;
         display: block;
         white-space: nowrap;
@@ -91,14 +91,14 @@
       .sub-element {
         cursor: pointer;
         position: relative;
-        border-top: 3px solid #333333;
+        border-top: 4px solid #333333;
         background-color: #22222288;
         display: block;
         white-space: nowrap;
         overflow: hidden;
-        left: 2%;
-        font-size: 7vmin;
-        width: min(100vw - 10vmin - 2%, 300px - 2%);
+        left: 1vw;
+        font-size: calc(7vmin - 1vw);
+        width: 30vw;
       }
       .title {
         text-align: center;

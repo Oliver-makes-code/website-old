@@ -1,2 +1,1 @@
-Welcome to my website!<br>
-Check out <a href="/mods/ext">Extension!</a>
+Welcome to my website!

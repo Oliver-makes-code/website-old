@@ -11,15 +11,19 @@
     },
     {
         "type": "menu",
-        "title": "Mods",
+        "title": "Refined Magic",
         "items": [
             {
                 "text": "Home",
-                "url": "/mods"
+                "url": "/rm"
             },
             {
-                "text": "Extension",
-                "url": "/mods/ext"
+                "text": "Items",
+                "url": "/rm/items"
+            },
+            {
+                "text": "Recipes",
+                "url": "/rm/recipe"
             }
         ]
     },
