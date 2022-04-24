@@ -1,0 +1,2 @@
+Be gay do crime. <br>
+<img src="/assets/gay.jpg" style="width: min(100vw, 400px)" />
