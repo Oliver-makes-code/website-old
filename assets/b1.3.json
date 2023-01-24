@@ -38,6 +38,4 @@
   "releaseTime": "2011-02-22T17:31:32+00:00",
   "server": true,
   "sharedMappings": false,
-  "assets": "legacy",
-  "assetIndex":{"id": "2", "sha1": "f465df3c585b67233e863479efd6b7dbf86aa68e", "size": 390746, "totalSize": 548861023, "url": "https://piston-meta.mojang.com/v1/packages/f465df3c585b67233e863479efd6b7dbf86aa68e/2.json"}
 }
